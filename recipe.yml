@@ -1,0 +1,9 @@
+name: 'Zoocha Performance Bundle'
+description: 'Adds Performance and related modules'
+type: 'Feature'
+
+install:
+  - purge
+  - memcache
+config:
+  strict: false

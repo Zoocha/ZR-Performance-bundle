@@ -1,0 +1,17 @@
+{
+    "name": "zr/zr-performance-bundle",
+    "description": "ZR Performance Bundle",
+    "type": "drupal-recipe",
+    "require": {
+        "php": ">=8.1",
+        "drupal/purge": "^3.6",
+        "drupal/memcache": "^2.7"
+    },
+    "authors": [
+        {
+            "name": "Arisha Salman",
+            "email": "webifyworld2020@gmail.com"
+        }
+    ],
+    "license": "GPL-2.0-or-later"
+}
